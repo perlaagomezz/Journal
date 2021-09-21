@@ -9,8 +9,8 @@ Git </strong> a version control system originally created for developers to coll
 
   <strong>
 Command Line Interface (CLI) </strong>Connects a user to a computer program or operating system. source:www.comms-express.com/infozone/article/command-line-interface/
-
-Terminal input/output (I/O) device for a computer that has a keyboard and mouse for input and a video screen for output. source pcmag.com/encyclopedia/term/terminal
+<strong>
+Terminal </strong> input/output (I/O) device for a computer that has a keyboard and mouse for input and a video screen for output. source pcmag.com/encyclopedia/term/terminal
 
 Graphical User Interface (GUI)  is a type of user interface through which users interact with electronic devices via visual indicator representations. source omnisci.com/technical-glossary/graphical-user-interface
 
