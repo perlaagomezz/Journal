@@ -1,12 +1,12 @@
 # Journal
 <strong>
 Repository (Repo) </strong>Strftware development, a repository is a central file storage location. source:www.techterms.com/definition/repository
-
-Git a version control system originally created for developers to collaborate on large software projects. source www.cfss.uchicago.edu/setup/what-is-git/
-
-Git Hub is a web-based version-control and collaboration platform for software developers. source www.searchitoperations.techtarget.com/definition/GitHub
-
-Command Line Interface (CLI) Connects a user to a computer program or operating system. source:www.comms-express.com/infozone/article/command-line-interface/
+<strong>
+Git </strong<a version control system originally created for developers to collaborate on large software projects. source www.cfss.uchicago.edu/setup/what-is-git/
+<strong>
+  Git Hub </strong>is a web-based version-control and collaboration platform for software developers. source www.searchitoperations.techtarget.com/definition/GitHub
+<strong>
+Command Line Interface (CLI) </strong>Connects a user to a computer program or operating system. source:www.comms-express.com/infozone/article/command-line-interface/
 
 Terminal input/output (I/O) device for a computer that has a keyboard and mouse for input and a video screen for output. source pcmag.com/encyclopedia/term/terminal
 
