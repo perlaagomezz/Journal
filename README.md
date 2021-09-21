@@ -1,6 +1,6 @@
 # Journal
 <strong>
-Repository (Repo) Strftware development, a repository is a central file storage location. source:www.techterms.com/definition/repository
+Repository (Repo) </strong>Strftware development, a repository is a central file storage location. source:www.techterms.com/definition/repository
 
 Git a version control system originally created for developers to collaborate on large software projects. source www.cfss.uchicago.edu/setup/what-is-git/
 
