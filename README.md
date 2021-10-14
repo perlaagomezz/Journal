@@ -32,14 +32,14 @@ Abstraction is the process of filtering out – ignoring - the characteristics o
   
  <strong>
   
-  Assignment </strong> operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=).
+  Assignment operator</strong>assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=).
 
 Variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence. 
 <strong> 
   
 String </strong>are useful for holding data that can be represented in text form.
 <strong> 
-  
+   
 Concatenate</strong>put things together in chains like strings in javascript.
 
 <strong>String Literal <s/strong>the words that are in the string not what the string is called. 
