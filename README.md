@@ -18,6 +18,17 @@ VS Code Visual Studio Code is a first class editor source www.cod.visualstudio.c
 https://www.geeksforgeeks.org/introduction-to-javascript/ 
 Abstraction is the process of filtering out – ignoring - the characteristics of patterns that we don't need in order to concentrate on those that we do. source www.bbc.co.uk/bitesize/guides/zttrcdm/revision/1
 <strong>
-JavaScrip </strong> is a scripting or programming language that allows you to implement complex features on web pages. source https://docs.google.com/presentation/d/13Va2fO_4o7QkFOzHfjHwrW2fFazse1tmiYL2jm2ZeeQ/edit#slide=id.gd0388a4ad0_0_125
+
+  JavaScrip </strong> is a scripting or programming language that allows you to implement complex features on web pages. source https://docs.google.com/presentation/d/13Va2fO_4o7QkFOzHfjHwrW2fFazse1tmiYL2jm2ZeeQ/edit#slide=id.gd0388a4ad0_0_125
 <strong>
+
+ Conditionals </strong> Conditional statements allow us to represent such decision making in JavaScript. source google slides 
+ <strong>
+ 
+ Operators </strong> In JavaScript operators are symbols that are used to perform operations. 
+ <ul>
+  <li>Var sum = 10 + 20;</li>
+  </ul>
+
+
   
