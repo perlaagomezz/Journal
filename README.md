@@ -67,7 +67,11 @@ Concatenate</strong>put things together in chains like strings in javascript.
   source:https://www.techopedia.com/definition/26101/operator-java
   
   Logical Operators
- an operator that returns a Boolean result that's based on the Boolean result of one or two other expressions. source:https://www.dummies.com/programming/java/logical-operators-in-java/
+ A symbol or word that connects to expressions
+  <ul>
+    <li>And (&&)</li>
+    <li> Or (||) </li>
+  </ul>
   
   Arithmetic Operators 
  Are used in mathematical expressions in the same way that they are used in algebra. source:https://www.w3resource.com/java-tutorial/java-arithmetic-operators.php
