@@ -61,7 +61,8 @@ Concatenate</strong>put things together in chains like strings in javascript.
  a special symbols performing specific operations on one, two or three operands and then returning a result.
   <ul>
     <li>Addition</li>
-    <li>Substractiom</li>
+    <li>Subtraction
+</li>
   </ul>
   source:https://www.techopedia.com/definition/26101/operator-java
   
