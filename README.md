@@ -56,8 +56,8 @@ Concatenate</strong>put things together in chains like strings in javascript.
     
   Functions</strong> are one of the fundamental building blocks in JavaScript.
   
-  
-  Operators 
+ <strong> 
+   Operators </strong>
  a special symbols performing specific operations on one, two or three operands and then returning a result. source:https://www.techopedia.com/definition/26101/operator-java
   
   Logical Operators
