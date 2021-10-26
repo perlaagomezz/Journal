@@ -58,7 +58,9 @@ Concatenate</strong>put things together in chains like strings in javascript.
   
  <strong> 
    Operators </strong>
- a special symbols performing specific operations on one, two or three operands and then returning a result. source:https://www.techopedia.com/definition/26101/operator-java
+ a special symbols performing specific operations on one, two or three operands and then returning a result.
+  <ul>
+    <li>Addition</li>source:https://www.techopedia.com/definition/26101/operator-java
   
   Logical Operators
  an operator that returns a Boolean result that's based on the Boolean result of one or two other expressions. source:https://www.dummies.com/programming/java/logical-operators-in-java/
