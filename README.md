@@ -82,8 +82,9 @@ Concatenate</strong>put things together in chains like strings in javascript.
     <li>
       The variable i is what we use in loops as placeholders.</li>
   </ul>
-  For Loop
+  For loop 
   For loops loop through a block of code a number of times.
+  
 
 
 
