@@ -76,7 +76,15 @@ Concatenate</strong>put things together in chains like strings in javascript.
   Arithmetic Operators 
  Are used in mathematical expressions in the same way that they are used in algebra. source:https://www.w3resource.com/java-tutorial/java-arithmetic-operators.php
   
-  
+  While Loop
+  The while loop loops through a block of code as long as a specified condition is true.  
+  <ul>
+    <li>
+      The variable i is what we use in loops as placeholders.</li>
+  </ul>
+  For Loop
+  For loops loop through a block of code a number of times.
+
 
 
   
